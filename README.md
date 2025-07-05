@@ -1,6 +1,6 @@
 # Rightmove_fixed_price_finder
 
-Web scraper used to search Rightmove for fixed price proerties, their keyword search does not work for this
+Web scraper used to search Rightmove for fixed price properties, their keyword search does not work for this
 
 You feed it a Rightmove search URL:
 
